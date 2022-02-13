@@ -1,7 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+### before the start
+enter your api key in src/common/const/APIkey.ts
+###
 ## Available Scripts
 
 In the project directory, you can run:
